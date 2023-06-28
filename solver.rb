@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require 'rspec'
 
 # This class provides methods for solving mathematical problems.
